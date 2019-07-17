@@ -1,3 +1,3 @@
 # gba-game-test
 
-![game.gif](game.gif)
+![gba-test-game.gif](gba-test-game.gif)
